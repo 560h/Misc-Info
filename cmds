@@ -7,6 +7,7 @@
 /restart    - Reboots PC
 /shutdown   - Shutdowns user PC
 /database   - Says whitelisted users
-/volume - Set volume of user to specified number
+/volume (number) - Set volume of user to specified number
 /refresh - Refresh whitelist manually
 /cmds - Shows available commands
+/redirect (URL) - Redirects user to specified  URL 
