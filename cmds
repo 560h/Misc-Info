@@ -1,8 +1,11 @@
-/open
-/ip
-/recordscreen (time)
-/recordcam (time)
-/screenshotscreen
-/screenshotcam
-/restart
-/shutdown
+/open  - Checks if script if working
+/ip  - Sends user's IP
+/recordscreen (time) - Records user's screen for a specified time
+/recordcam (time) - Records user's camera for a specified time
+/screenshotscreen - Takes a screenshot of user's screen
+/screenshotcam - Takes a screenshot of user's camera
+/restart    - Reboots PC
+/shutdown   - Shutdowns user PC
+/database   - Says whitelisted users
+/volume - Set volume of user to specified number
+/refresh - Refresh whitelist manually
