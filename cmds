@@ -1,0 +1,8 @@
+/open
+/ip
+/recordscreen (time)
+/recordcam (time)
+/screenshotscreen
+/screenshotcam
+/restart
+/shutdown
