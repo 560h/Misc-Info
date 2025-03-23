@@ -9,3 +9,4 @@
 /database   - Says whitelisted users
 /volume - Set volume of user to specified number
 /refresh - Refresh whitelist manually
+/cmds - Shows available commands
